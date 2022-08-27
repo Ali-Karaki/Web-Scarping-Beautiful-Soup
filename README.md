@@ -1,5 +1,5 @@
 # About
-Small project while learning web scraping using Beautiful Soup
+Web scraping **Microsoft Technical Documentation** using Beautiful Soup, show results in **data.md**
 
 # Installation
 
